@@ -4,9 +4,14 @@ body {
 .small {
   font-weight: 380;
   font-size: 75%;
+  margin-top: auto;
+}
+
+.a {
+  padding: 20px;
+  display: block;
+  text-align: center;
   color: #007bff;
   text-decoration: none;
   background-color: transparent;
-  margin-top: auto;
-  padding-right: 2%;
 }
